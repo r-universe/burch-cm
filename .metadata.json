@@ -1,0 +1,14 @@
+[
+  {
+    "package": "altfuelr",
+    "oncran": true
+  },
+  {
+    "package": "excelstrippr",
+    "oncran": true
+  },
+  {
+    "package": "vindecodr",
+    "oncran": true
+  }
+]
