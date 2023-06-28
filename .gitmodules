@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "altfuelr"]
 	path = altfuelr
 	url = https://github.com/burch-cm/altfuelr
-	shallow = true
-	registered = true
 [submodule "excelstrippr"]
 	path = excelstrippr
 	url = https://github.com/burch-cm/excelstrippr
-	shallow = true
-	registered = true
 [submodule "vindecodr"]
 	path = vindecodr
 	url = https://github.com/burch-cm/vindecodr
-	shallow = true
-	registered = true
