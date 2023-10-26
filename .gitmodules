@@ -5,9 +5,6 @@
 [submodule "altfuelr"]
 	path = altfuelr
 	url = https://github.com/burch-cm/altfuelr
-[submodule "excelstrippr"]
-	path = excelstrippr
-	url = https://github.com/burch-cm/excelstrippr
 [submodule "vindecodr"]
 	path = vindecodr
 	url = https://github.com/burch-cm/vindecodr
